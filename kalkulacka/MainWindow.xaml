@@ -23,7 +23,7 @@
         </Grid.RowDefinitions>
 
         <Button Content="CZ" Grid.Column="0" HorizontalAlignment="Stretch" Grid.Row="1" VerticalAlignment="Stretch" FontSize="20"/>
-        <Button Content="7" Grid.Column="0" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Stretch"/>
+        <Button Content="7" Grid.Column="0" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Stretch" FontSize="20"/>
         <Button Content="Button" Grid.Column="0" HorizontalAlignment="Stretch" Grid.Row="3" VerticalAlignment="Stretch"/>
         <Button Content="Button" Grid.Column="0" HorizontalAlignment="Stretch" Grid.Row="4" VerticalAlignment="Stretch"/>
         <Button Content="Button" Grid.Column="0" HorizontalAlignment="Stretch" Grid.Row="5" VerticalAlignment="Stretch"/>
